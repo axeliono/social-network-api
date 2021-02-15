@@ -17,7 +17,7 @@ If you have any questions, contact me <chandlergreen1997@gmail.com>
 
 ## Walkthrough Link below
 
-![] <video src="https://drive.google.com/file/d/1VclSaJLnSCreiQJh9o1m24-LycQF6RyR/preview" width="640" height="480"></video>
+<video src="https://drive.google.com/file/d/1VclSaJLnSCreiQJh9o1m24-LycQF6RyR/preview" width="640" height="480"></video>
 
 ## Contribution
 
