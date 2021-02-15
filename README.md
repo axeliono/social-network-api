@@ -4,7 +4,7 @@ This challenge involved creating a social network backend using MongoDB and Expr
 
 The various API routes were tested using Insomnia Core.
 
-## Istallation
+## Installation
 
 You must install Node.js on your local device to run this application.
 In your root directory of this files, run `npm install` to download the associated packages.
