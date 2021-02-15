@@ -17,8 +17,7 @@ If you have any questions, contact me <chandlergreen1997@gmail.com>
 
 ## Walkthrough Link below
 
-![] (/project-video.mp4)
-https://drive.google.com/file/d/1VclSaJLnSCreiQJh9o1m24-LycQF6RyR/view
+https://drive.google.com/file/d/1afPvq66CmAAhRZilxVubu69dQJWCsBpP/view?usp=sharing
 ## Contribution
 
 - Chandler Green <chandlergreen1997@gmail.com>
